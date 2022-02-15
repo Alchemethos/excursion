@@ -1,11 +1,15 @@
 * {
-    background-color: black;
-    text-align: center;
-    } 
+   background-color: black;
+   text-align: center;
+   } 
 
 h1 {
-    color: white;
+    color: White;
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     }
+
+a {
+   color: Aquamarine;
+   }
